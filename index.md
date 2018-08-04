@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Engaging Students: Essays in Music Pedagogy, Volume 5"
+title: "Engaging Students: Essays in Music Pedagogy, Volume 6"
 ---
 
-_Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This the fifth volume of *Engaging Students*. You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
+_Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This the sixth volume of *Engaging Students*. You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
 
 We hope that you enjoy reading this volume as much as we have enjoyed putting it together.
 
@@ -83,23 +83,36 @@ J. Daniel Jenkins
 
 # Editorial & Review Board
 
-[UPDATE]
-Danny Arthurs, University of Tulsa  
-Carla Colletti, Webster University  
-Philip Duker, University of Delaware, co-editor  
-Dave Easley, Oklahoma City University  
-Anna Gawboy, Ohio State University, co-editor  
-Stephen Gosden, University of North Florida  
-Bryn Hughes, University of Lethbridge, co-editor  
-Enoch Jacobus, independent scholar, Berea, Kentucky  
-Stefan Love, University of Massachusetts–Amherst  
-Michael McClimon, Furman University  
-Garrett Michaelsen, University of Massachusetts–Lowell, special issue co-editor  
-Brian Moseley, The University at Buffalo, SUNY  
-Meghan Naxer, Kent State University, production editor  
-Colin Roust, University of Kansas  
-Keith Salley, Shenandoah University  
-Kris Shaffer, University of Mary Washington, production editor  
-Daniel Stevens, University of Delaware  
-Chris Stover, New School, special issue co-editor  
-Dariusz Terefenko, Eastman School of Music, special issue co-editor
+Philip Duker, University of Delaware, co-editor
+Anna Gawboy, Ohio State University, co-editor
+Bryn Hughes, University of Lethbridge, co-editor
+Meghan Naxer, Kent State University, co-editor
+Daniel Shanahan, Ohio State University, production editor
+David Baker, Louisiana State University, production editor
+
+Danny Arthurs, University of Tulsa
+Sarah Bakker, Utah State University
+Daniel Blim, Denison University
+Carla Colletti, Webster University
+Dave Easley, Oklahoma City University
+Gretchen Foley, University of Nebraska--Lincoln
+Philip Gentry, University of Delaware
+Stephen Gosden, University of North Florida
+Kyle Gullings, University of Texas--Tyler
+Enoch Jacobus, Shorter University
+J. Daniel Jenkins, University of South Carolina
+Tom Johnson, CUNY Graduate Center
+Megan Lavengood, George Mason University
+Jeff Lovell, Lebanon Valley College
+Anabel Maler, University of Chicago
+Greg McCandless, Appalachian State University
+Garrett Michaelsen, University of Massachusetts-–Lowell
+Nancy Murphy, University of Houston
+Cora Palfy, Elon University
+Colin Roust, University of Kansas
+Rene Rusch, University of Michigan
+Abby Shupe, Colorado State University
+Chris Stover, Arizona State University
+
+
+
