@@ -83,36 +83,36 @@ J. Daniel Jenkins
 
 # Editorial & Review Board
 
-Philip Duker, University of Delaware, co-editor
-Anna Gawboy, Ohio State University, co-editor
-Bryn Hughes, University of Lethbridge, co-editor
-Meghan Naxer, Kent State University, co-editor
-Daniel Shanahan, Ohio State University, production editor
-David Baker, Louisiana State University, production editor
+Philip Duker, University of Delaware, co-editor<br>  
+Anna Gawboy, Ohio State University, co-editor<br>  
+Bryn Hughes, University of Lethbridge, co-editor<br>  
+Meghan Naxer, Kent State University, co-editor<br>  
+Daniel Shanahan, Ohio State University, production editor<br>
+David Baker, Louisiana State University, production editor<br>
 
-Danny Arthurs, University of Tulsa
-Sarah Bakker, Utah State University
-Daniel Blim, Denison University
-Carla Colletti, Webster University
-Dave Easley, Oklahoma City University
-Gretchen Foley, University of Nebraska--Lincoln
-Philip Gentry, University of Delaware
-Stephen Gosden, University of North Florida
-Kyle Gullings, University of Texas--Tyler
-Enoch Jacobus, Shorter University
-J. Daniel Jenkins, University of South Carolina
-Tom Johnson, CUNY Graduate Center
-Megan Lavengood, George Mason University
-Jeff Lovell, Lebanon Valley College
-Anabel Maler, University of Chicago
-Greg McCandless, Appalachian State University
-Garrett Michaelsen, University of Massachusetts-–Lowell
-Nancy Murphy, University of Houston
-Cora Palfy, Elon University
-Colin Roust, University of Kansas
-Rene Rusch, University of Michigan
-Abby Shupe, Colorado State University
-Chris Stover, Arizona State University
+Danny Arthurs, University of Tulsa<br>
+Sarah Bakker, Utah State University<br>
+Daniel Blim, Denison University<br>
+Carla Colletti, Webster University<br> 
+Dave Easley, Oklahoma City University<br> 
+Gretchen Foley, University of Nebraska--Lincoln<br>
+Philip Gentry, University of Delaware<br>
+Stephen Gosden, University of North Florida<br>
+Kyle Gullings, University of Texas--Tyler<br>
+Enoch Jacobus, Shorter University<br>
+J. Daniel Jenkins, University of South Carolina<br>
+Tom Johnson, CUNY Graduate Center<br>
+Megan Lavengood, George Mason University<br>
+Jeff Lovell, Lebanon Valley College<br>
+Anabel Maler, University of Chicago<br>
+Greg McCandless, Appalachian State University<br>
+Garrett Michaelsen, University of Massachusetts-–Lowell<br>
+Nancy Murphy, University of Houston<br>
+Cora Palfy, Elon University<br>
+Colin Roust, University of Kansas<br>
+Rene Rusch, University of Michigan<br>
+Abby Shupe, Colorado State University<br> 
+Chris Stover, Arizona State University<br>
 
 
 
