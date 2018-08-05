@@ -15,52 +15,52 @@ Editors
 
 # Essays
 
-[A Student-Centered Approach to Composing Popular Music in the Theory Classroom]({{ site.baseurl }}/essays/alcade.html) 
-Bruno Alcade
+[A Student-Centered Approach to Composing Popular Music in the Theory Classroom]({{ site.baseurl }}/essays/alcade.html)  
+Bruno Alcade, University of Richmond
 
-[The Analysis Paper as Academic Argument]({{ site.baseurl }}/essays/blattler.html) 
-Damian Blättler
+[The Analysis Paper as Academic Argument]({{ site.baseurl }}/essays/blattler.html)  
+Damian Blättler, Rice University
 
-[Testing the student's ability to hear elements of sonata form without a score]({{ site.baseurl }}/essays/brown.html) 
-Jenine Brown
+[Testing the student's ability to hear elements of sonata form without a score]({{ site.baseurl }}/essays/brown.html)  
+Jenine Brown, The Peabody Conservatory, Johns Hopkins University
 
-[Part Writing Can Be Student Centered]({{ site.baseurl }}/essays/chenette.html) 
-Tim Chenette  
+[Part Writing Can Be Student Centered]({{ site.baseurl }}/essays/chenette.html)  
+Tim Chenette, Utah State University 
 
-[Some Reharmonization Techniques for Popular Music: Melodic Skeletons, the Melodic-Harmonic Divorce, and Meta-Schemas]({{ site.baseurl }}/essays/declercq.html) 
-Trevor de Clercq
+[Some Reharmonization Techniques for Popular Music: Melodic Skeletons, the Melodic-Harmonic Divorce, and Meta-Schemas]({{ site.baseurl }}/essays/declercq.html)  
+Trevor de Clercq, Middle Tennessee State University
 
-[Incorporating Model Composition and Improvisation into the Theory Curriculum: Further Reflections on Benefits and Challenges]({{ site.baseurl }}/essays/rabinovitchnorgard.html) 
+[Incorporating Model Composition and Improvisation into the Theory Curriculum: Further Reflections on Benefits and Challenges]({{ site.baseurl }}/essays/rabinovitchnorgard.html)  
 Gilad Rabinovitch and Martin Norgaard, Georgia State University
 
-[Making a Case for Freewriting in the Music Theory Classroom]({{ site.baseurl }}/essays/salamone.html) 
-Jenn Salamone
+[Making a Case for Freewriting in the Music Theory Classroom]({{ site.baseurl }}/essays/salamone.html)  
+Jennifer Salamone, Oberlin Conservatory
 
-[Calling Captain Scaffold! Interactive Handouts to Stimulate Student Learning]({{ site.baseurl }}/essays/shafer.html) 
-Jennifer Shafer
+[Calling Captain Scaffold! Interactive Handouts to Stimulate Student Learning]({{ site.baseurl }}/essays/shafer.html)  
+Jennifer Shafer, University of Delaware 
 
-[Transcending the Pedagogical Patriarchy: Practical Suggestions for Including Examples from Women Composers in the Music Theory Curriculum]({{ site.baseurl }}/essays/stroud1.html) 
+[Transcending the Pedagogical Patriarchy: Practical Suggestions for Including Examples from Women Composers in the Music Theory Curriculum]({{ site.baseurl }}/essays/stroud1.html)  
 Cara Stroud, Michigan State University
 
-[List of Classroom Resources on Music by Women Composers]({{ site.baseurl }}/essays/stroud2.html) 
+[List of Classroom Resources on Music by Women Composers]({{ site.baseurl }}/essays/stroud2.html)  
 Cara Stroud, Michigan State University
 
-[Using Gallery Walks for Engagement in the Music History Classroom]({{ site.baseurl }}/essays/wissner.html) 
-Reba Wissner
+[Using Gallery Walks for Engagement in the Music History Classroom]({{ site.baseurl }}/essays/wissner.html)  
+Reba Wissner, Montclair State University 
 
-[Teaching with Timelines]({{ site.baseurl }}/essays/yorgason.html) 
-Brent Yorgason
+[Teaching with Timelines]({{ site.baseurl }}/essays/yorgason.html)  
+Brent Yorgason, Brigham Young University
 
 
 
 # Editorial & Review Board
 
-Philip Duker, University of Delaware, co-editor<br>  
-Anna Gawboy, Ohio State University, co-editor<br>  
-Bryn Hughes, University of Lethbridge, co-editor<br>  
-Meghan Naxer, Kent State University, co-editor<br>  
-Daniel Shanahan, Ohio State University, production editor<br>
-David Baker, Louisiana State University, production editor<br>
+Philip Duker, University of Delaware, co-editor  
+Anna Gawboy, Ohio State University, co-editor  
+Bryn Hughes, University of Lethbridge, co-editor  
+Meghan Naxer, Kent State University, co-editor  
+Daniel Shanahan, Ohio State University, production editor
+David Baker, Louisiana State University, production editor
 
 Danny Arthurs, University of Tulsa<br>
 Sarah Bakker, Utah State University<br>
