@@ -9,76 +9,48 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 
 # Front matter
 
-[Foreword]({{ site.baseurl }}/essays/waters.html)  
-Keith Waters
+[Foreword]({{ site.baseurl }}/essays/editors.html)  
+Editors
 
 
 # Essays
 
+[A Student-Centered Approach to Composing Popular Music in the Theory Classroom]({{ site.baseurl }}/essays/alcade.html) 
+Bruno Alcade
 
-## Philosophy
+[The Analysis Paper as Academic Argument]({{ site.baseurl }}/essays/blattler.html) 
+Damian Blättler
 
-[A Case Against Teaching Set Classes to Undergraduates]({{ site.baseurl }}/essays/buchler.html)  
-Michael Buchler
+[Testing the student's ability to hear elements of sonata form without a score]({{ site.baseurl }}/essays/brown.html) 
+Jenine Brown
 
-[Engaging Students in their Own Success: Incorporating Aspects of the First-Year Seminar into First-Year Music Theory and Aural Skills]({{ site.baseurl }}/essays/hoag.html)  
-Melissa Hoag
+[Part Writing Can Be Student Centered]({{ site.baseurl }}/essays/chenette.html) 
+Tim Chenette  
 
-[Metacognition: An Overlooked Skill in Music Theory Instruction]({{ site.baseurl }}/essays/ferenc.html)  
-Anna Ferenc
+[Some Reharmonization Techniques for Popular Music: Melodic Skeletons, the Melodic-Harmonic Divorce, and Meta-Schemas]({{ site.baseurl }}/essays/declercq.html) 
+Trevor de Clercq
 
-[Open Educational Resources (OER) in the Music Theory Classroom: A Curricular Redesign Travelogue]({{ site.baseurl }}/essays/gullings.html)
-Kyle Gullilngs
+[Incorporating Model Composition and Improvisation into the Theory Curriculum: Further Reflections on Benefits and Challenges]({{ site.baseurl }}/essays/rabinovitchnorgard.html) 
+Gilad Rabinovitch and Martin Norgaard, Georgia State University
 
-[The Undergraduate Student-Faculty Colloquy: Cultivating Disciplinary Authenticity through Formative Oral Examination]({{ site.baseurl }}/essays/strovas_stutes.html)
-Scott M. Strovas and Ann B. Stutes
+[Making a Case for Freewriting in the Music Theory Classroom]({{ site.baseurl }}/essays/salamone.html) 
+Jenn Salamone
 
+[Calling Captain Scaffold! Interactive Handouts to Stimulate Student Learning]({{ site.baseurl }}/essays/shafer.html) 
+Jennifer Shafer
 
-## Practice
+[Transcending the Pedagogical Patriarchy: Practical Suggestions for Including Examples from Women Composers in the Music Theory Curriculum]({{ site.baseurl }}/essays/stroud1.html) 
+Cara Stroud, Michigan State University
 
-[Drawing Students In: Using Doodling to Support Engaged Listening]({{ site.baseurl }}/essays/ofcarcik.html)  
-Judith Ofcarcik
+[List of Classroom Resources on Music by Women Composers]({{ site.baseurl }}/essays/stroud2.html) 
+Cara Stroud, Michigan State University
 
-[Electronic Music History through Guided Discovery: An Active Learning Approach to Engage the Millennial Student]({{ site.baseurl }}/essays/fick.html)
-Jason Fick
+[Using Gallery Walks for Engagement in the Music History Classroom]({{ site.baseurl }}/essays/wissner.html) 
+Reba Wissner
 
-[Engaging Everyone: Musical Analysis in the General Education Classroom]({{ site.baseurl }}/essays/lam.html)  
-George Lam
+[Teaching with Timelines]({{ site.baseurl }}/essays/yorgason.html) 
+Brent Yorgason
 
-[Ho Hey, Having Some Say in Contextual Listening]({{ site.baseurl }}/essays/jemain.html)
-Rebecca Jemain
-
-[Inverting Dictation]({{ site.baseurl }}/essays/stevens.html)
-Daniel B. Stevens
-
-[The Music of *Hamilton* and its Historical, Cultural, Social, and Political Contexts]({{ site.baseurl }}/essays/johnson.html)
-Timothy A. Johnson
-
-[New Frontiers in SmartMusicianship]({{ site.baseurl }}/essays/mariner_schubert.html)
-Justin Mariner and Peter Schubert
-
-[Reconnecting with History: Problem-Based Learning (PBL) in the Music History Classroom]({{ site.baseurl }}/essays/purciello.html)
-Maria Anne Purciello
-
-
-## From Classroom to Community
-
-[Engaging Community in a Twentieth-Century Analysis Class]({{ site.baseurl }}/essays/peebles.html)
-Crystal Peebles
-
-[Melody Makers: Connecting Student Composers with the Community]({{ site.baseurl }}/essays/williams.html)
-Natalie Williams
-
-[Outside the Classroom: Community-Engaged Learning Projects in Music Theory]({{ site.baseurl }}/essays/bourne.html)
-Janet Bourne
-
-[Towards a Curriculum in Public Music Theory]({{ site.baseurl }}/essays/jenkins.html)
-J. Daniel Jenkins
-
-
-# Back matter
-
-[Bibliography]({{ site.baseurl }}/bibliography.html)
 
 
 # Editorial & Review Board
