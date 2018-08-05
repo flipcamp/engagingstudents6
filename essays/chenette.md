@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Part Writing Can Be Student Centered"
-author: Tim Chenette
+author: Tim Chenette, Utah State University 
 ---
 {{ page.title }}
 ================
