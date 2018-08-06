@@ -28,32 +28,32 @@ Methodological conversations of this sort not only prime students to write bette
 
 **References**
 
->Agawu, Kofi. 2004. "[How We Got Out of Analysis, and How to Get Back In Again](https://www.jstor.org/stable/3700446)." *Music Analysis* 23 (2/3): 267-286.
->
->Burnham, Scott. 1996. [*Beethoven Hero*](https://openlibrary.org/works/OL8327941W/Beethoven_Hero). Princeton: Princeton University Press.
->
->Chua, Daniel. 2004. "[Rethinking Unity](http://www.jstor.org/stable/3700451)." *Music Analysis* 23 (ii-iii): 353-359.
->
->Cohn, Richard and Douglas Dempster. 1992. "Hierarchical Unity, Plural Unities: Toward a Reconciliation." In [*Disciplining Music: Musicology and Its Canons*](>>http://www.worldcat.org/title/disciplining-music-musicology-and-its-canons/oclc/24669713), edited by Katherine Bergeron and Philip V. Bohlman. Chicago: The University of Chicago Press: 156-181.
->
->Cone, Edward T. 1982. "[Schubert's Promissory Note: An Exercise in Musical Hermeneutics](http://www.jstor.org/stable/746462)." *19^th^-Century Music* 5 (3): 233-241.
->
->Cook, Nicholas. 2001. "[Theorizing Musical Meaning](http://www.jstor.org/stable/10.1525/mts.2001.23.2.170)." *Music Theory Spectrum* 23 (2): 170-195.
->
->Hausmann, John. 2014. "[Content in the Learner-centered Non-major Classroom: Thinking and Listening Like a Musicologist](http://flipcamp.org/engagingstudents2/essays/hausmann.html)." *Engaging Students: Essays in Music Pedagogy* 2. Accessed May 25, 2018. http://flipcamp.org/engagingstudents2/essays/hausmann.html
->
->Korsyn, Kevin. 1993. "[Brahms Research and Aesthetic Ideology](http://www.jstor.org/stable/854077)." *Music Analysis* 12 (1): 89-103.
->
->---------. 2004. "[The Death of Musical Analysis? The Concept of Unity Revisited](http://www.jstor.org/stable/3700450)." *Music Analysis* 23 (2/3): 337-351.
->
->Monahan, Seth. 2013. "[Action and Agency Revisited](https://doi.org/10.1215/00222909-2323497)." *Journal of Music Theory* 57 (2): 321-371.
->
->Morgan, Robert P. 2003. "[The Concept of Unity and Musical Analysis](http://www.jstor.org/stable/3700417)." *Music Analysis* 22 (1/2): 7-50.
->
->Schering, Arnold. 2000. "'[Die Eroica, eine Homer-Symphonie Beethovens?](https://currentmusicology.columbia.edu/article/arnold-schering-die-eroica-eine-homer-symphonie-beethovens-translated-with-an-introduction-and-commentary/)': Translated with an Introduction and Commentary." Translated by Glenn Stanley. *Current Musicology* 69: 68-96.
->
->Schenker, Heinrich. 2014. [*The Masterwork in Music: Volume III, 1930*](http://www.worldcat.org/title/masterwork-in-music-a-yearbook/oclc/906631179?referer=di&ht=edition). Edited by William Drabkin. Translated by Ian Bent, Alfred Clayton, and Derrick Puffett. Mineola, NY: Dover Publications.
->
->Zbikowski, Lawrence M. 2002. [*Conceptualizing Music: Cognitive Structure, Theory, and Analysis*](https://openlibrary.org/works/OL8003931W/Conceptualizing_Music). New York: Oxford University Press.
+Agawu, Kofi. 2004. "[How We Got Out of Analysis, and How to Get Back In Again](https://www.jstor.org/stable/3700446)." *Music Analysis* 23 (2/3): 267-286.
+
+Burnham, Scott. 1996. [*Beethoven Hero*](https://openlibrary.org/works/OL8327941W/Beethoven_Hero). Princeton: Princeton University Press.
+
+Chua, Daniel. 2004. "[Rethinking Unity](http://www.jstor.org/stable/3700451)." *Music Analysis* 23 (ii-iii): 353-359.
+
+Cohn, Richard and Douglas Dempster. 1992. "Hierarchical Unity, Plural Unities: Toward a Reconciliation." In [*Disciplining Music: Musicology and Its Canons*](http://www.worldcat.org/title/disciplining-music-musicology-and-its-canons/oclc/24669713), edited by Katherine Bergeron and Philip V. Bohlman. Chicago: The University of Chicago Press: 156-181.
+
+Cone, Edward T. 1982. "[Schubert's Promissory Note: An Exercise in Musical Hermeneutics](http://www.jstor.org/stable/746462)." *19^th^-Century Music* 5 (3): 233-241.
+
+Cook, Nicholas. 2001. "[Theorizing Musical Meaning](http://www.jstor.org/stable/10.1525/mts.2001.23.2.170)." *Music Theory Spectrum* 23 (2): 170-195.
+
+Hausmann, John. 2014. "[Content in the Learner-centered Non-major Classroom: Thinking and Listening Like a Musicologist](http://flipcamp.org/engagingstudents2/essays/hausmann.html)." *Engaging Students: Essays in Music Pedagogy* 2. Accessed May 25, 2018. http://flipcamp.org/engagingstudents2/essays/hausmann.html
+
+Korsyn, Kevin. 1993. "[Brahms Research and Aesthetic Ideology](http://www.jstor.org/stable/854077)." *Music Analysis* 12 (1): 89-103.
+
+---------. 2004. "[The Death of Musical Analysis? The Concept of Unity Revisited](http://www.jstor.org/stable/3700450)." *Music Analysis* 23 (2/3): 337-351.
+
+Monahan, Seth. 2013. "[Action and Agency Revisited](https://doi.org/10.1215/00222909-2323497)." *Journal of Music Theory* 57 (2): 321-371.
+
+Morgan, Robert P. 2003. "[The Concept of Unity and Musical Analysis](http://www.jstor.org/stable/3700417)." *Music Analysis* 22 (1/2): 7-50.
+
+Schering, Arnold. 2000. "'[Die Eroica, eine Homer-Symphonie Beethovens?](https://currentmusicology.columbia.edu/article/arnold-schering-die-eroica-eine-homer-symphonie-beethovens-translated-with-an-introduction-and-commentary/)': Translated with an Introduction and Commentary." Translated by Glenn Stanley. *Current Musicology* 69: 68-96.
+
+Schenker, Heinrich. 2014. [*The Masterwork in Music: Volume III, 1930*](http://www.worldcat.org/title/masterwork-in-music-a-yearbook/oclc/906631179?referer=di&ht=edition). Edited by William Drabkin. Translated by Ian Bent, Alfred Clayton, and Derrick Puffett. Mineola, NY: Dover Publications.
+
+Zbikowski, Lawrence M. 2002. [*Conceptualizing Music: Cognitive Structure, Theory, and Analysis*](https://openlibrary.org/works/OL8003931W/Conceptualizing_Music). New York: Oxford University Press.
 
 This work is copyright ⓒ2018 Damian Blättler and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -58,24 +58,24 @@ The assessments described in this essay can help theory teachers test their stud
 
 **References**
 
->Alegant, Brian. 2008. "[Listen Up!: Thoughts on iPods, Sonata Form, and Analysis without Score](https://music.appstate.edu/about/jmtp/listen-thoughts-ipods-sonata-form-and-analysis-without-score)." *Journal of Music Theory Pedagogy* 22: 149--76.
->
->Caplin, William. 1998. [*Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven*](https://openlibrary.org/books/OL679075M/Classical_form). New York, NY: Oxford University Press.
->
->Duker, Philip. 2013. "[Capturing Thinking in Time -- Using 'Clickers' to Measure Student Understanding](http://flipcamp.org/engagingstudents/duker.html)." *Engaging Students* 1. Accessed May 23, 2018.
->
->Hepokoski, James and Warren Darcy. 1997. "[The Medial Caesura and its Role in the Eighteenth-Century Sonata Exposition](https://academic.oup.com/mts/article/19/2/115/1083139)." *Music Theory Spectrum* 19.2: 115--54.
->
->\_\_\_\_\_\_. 2006. [*Elements of Sonata Theory: Norms, Types, and Deformations in the Late Eighteenth-Century Sonata*](https://openlibrary.org/works/OL13667271W/Elements_of_sonata_theory). New York, NY: Oxford University Press.
->
->Karpinski, Gary. 2000. [*Aural Skills Acquisition*](https://openlibrary.org/works/OL17756865W/Aural_Skills_Acquisition). New York, NY: Oxford University Press.
->
->Monahan, Seth. 2011. ["Sonata Theory in the Undergraduate Classroom"](https://music.appstate.edu/about/jmtp/sonata-theory-undergraduate-classroom)." *Journal of Music Theory Pedagogy* 25: 63--128.
->
->Peebles, Crystal. 2013. "[Using Audacity to Participate in Active Musical Listening](http://flipcamp.org/engagingstudents/peebles.html)." *Engaging Students* 1*.* Accessed May 23, 2018.
->
->Santa, Matthew. 2017. [*Hearing Form: Musical Analysis With and Without the Score*](https://openlibrary.org/works/OL17756488W/Hearing_Form_Musical_Analysis_with_and_Without_the_Score_2nd_edition). 2nd edition. New York, NY: Routledge.
->
->Wennerstrom, Mary. 2008. ["The Liability of Labels"](https://music.appstate.edu/about/jmtp/liability-labels)." *Journal of Music Theory Pedagogy* 22: 1--19.
+Alegant, Brian. 2008. "[Listen Up!: Thoughts on iPods, Sonata Form, and Analysis without Score](https://music.appstate.edu/about/jmtp/listen-thoughts-ipods-sonata-form-and-analysis-without-score)." *Journal of Music Theory Pedagogy* 22: 149--76.
+
+Caplin, William. 1998. [*Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven*](https://openlibrary.org/books/OL679075M/Classical_form). New York, NY: Oxford University Press.
+
+Duker, Philip. 2013. "[Capturing Thinking in Time -- Using 'Clickers' to Measure Student Understanding](http://flipcamp.org/engagingstudents/duker.html)." *Engaging Students* 1. Accessed May 23, 2018.
+
+Hepokoski, James and Warren Darcy. 1997. "[The Medial Caesura and its Role in the Eighteenth-Century Sonata Exposition](https://academic.oup.com/mts/article/19/2/115/1083139)." *Music Theory Spectrum* 19.2: 115--54.
+
+\_\_\_\_\_\_. 2006. [*Elements of Sonata Theory: Norms, Types, and Deformations in the Late Eighteenth-Century Sonata*](https://openlibrary.org/works/OL13667271W/Elements_of_sonata_theory). New York, NY: Oxford University Press.
+
+Karpinski, Gary. 2000. [*Aural Skills Acquisition*](https://openlibrary.org/works/OL17756865W/Aural_Skills_Acquisition). New York, NY: Oxford University Press.
+
+Monahan, Seth. 2011. ["Sonata Theory in the Undergraduate Classroom"](https://music.appstate.edu/about/jmtp/sonata-theory-undergraduate-classroom)." *Journal of Music Theory Pedagogy* 25: 63--128.
+
+Peebles, Crystal. 2013. "[Using Audacity to Participate in Active Musical Listening](http://flipcamp.org/engagingstudents/peebles.html)." *Engaging Students* 1*.* Accessed May 23, 2018.
+
+Santa, Matthew. 2017. [*Hearing Form: Musical Analysis With and Without the Score*](https://openlibrary.org/works/OL17756488W/Hearing_Form_Musical_Analysis_with_and_Without_the_Score_2nd_edition). 2nd edition. New York, NY: Routledge.
+
+Wennerstrom, Mary. 2008. ["The Liability of Labels"](https://music.appstate.edu/about/jmtp/liability-labels)." *Journal of Music Theory Pedagogy* 22: 1--19.
 
 This work is copyright ⓒ2018 Jenine Brown and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -47,28 +47,28 @@ There is certainly a lot of room for improvement and tweaking in this strategy, 
 
 **References**
 
-> Byros, Vasili. 2015. ["Prelude on a Partimento: Invention in the Compositional Pedagogy of the German States in the Time of J. S. Bach."](http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.byros.html) *Music Theory Online* 21 (3). http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.byros.html.
->
-> Cook, Nicholas. 1996. [*Analysis through Composition: Principles of the Classical Style*](http://www.worldcat.org/title/analysis-through-composition-principles-of-the-classical-style/oclc/476662714&referer=brief_results). Oxford: Oxford University Press.
->
-> Eckert, Stefan. 2005. ["'So, You Want to Write a Minuet?'---Historical Perspectives in Teaching Theory."](http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert.html) *Music Theory Online* 11 (2). http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert.html.
->
-> Feichas, Heloisa. 2010. ["Bridging the Gap: Informal Learning Practices as a Pedagogy of Integration."](http://www.journals.cambridge.org/abstract_S0265051709990192) *British Journal of Music Education* 27 (1): 47-58.
->
-> Green, Lucy. 2002. [*How Popular Musicians Learn: A Way Ahead for Music Education*.](http://www.worldcat.org/title/how-popular-musicians-learn-a-way-ahead-for-music-education/oclc/897000586?referer=di&ht=edition.) Burlington, VT: Ashgate.
->
-> Jemian, Rebecca. 2017. ["Ho Hey, Having Some Say in Contextual Listening."](http://flipcamp.org/engagingstudents5/essays/jemian.html) *Engaging Sudents: Essays in Music Pedagogy* 5.
->
-> Kolb, David A. 2015. [*Experiential Learning: Experience as the Source of Learning and Development*.](http://www.worldcat.org/title/experiential-learning-experience-as-the-source-of-learning-and-development/oclc/919574775&referer=brief_results.) 2nd ed. New Jersey: Pearson Education, Inc.
->
-> McPhail, Graham. 2013. "[Informal and Formal Knowledge: The Curriculum Conception of Two Rock Graduates.](http://www.journals.cambridge.org/abstract_S0265051712000228)" *British Journal of Music Education* 30 (1): 43--57.
->
-> Moore, Allan F. 2012. [*Song Means: Analysing and Interpreting Recorded Popular Song*](http://www.worldcat.org/title/song-means/oclc/1020668962&referer=brief_results.). Farnham, Surrey; Burlington, VT: Ashgate.
->
-> Parker, Sylvia. 2006. ["Understanding Sonata Form through Model Composition."](https://music.appstate.edu/about/jmtp/understanding-sonata-form-through-model-composition) *Journal of Music Theory Pedagogy* 20. https://music.appstate.edu/about/jmtp/understanding-sonata-form-through-model-composition.
->
-> Rabinovitch, Gilad, and Johnandrew Slominski. 2015. ["Towards a Galant Pedagogy: Partimenti and Schemata as Tools in the Pedagogy of Eighteenth-Century Style Improvisation."](http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.rabinovitch.html) *Music Theory Online* 21 (3). http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.rabinovitch.html.
->
-> Rogers, Carl R. 1951. [*Client-Centered Therapy: Its Current Practice, Implications, and Theory*](https://openlibrary.org/works/OL2354089W/Client-centered_therapy_its_current_practice_implications_and_theory.). London: Constable.
+ Byros, Vasili. 2015. ["Prelude on a Partimento: Invention in the Compositional Pedagogy of the German States in the Time of J. S. Bach."](http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.byros.html) *Music Theory Online* 21 (3). http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.byros.html.
+
+ Cook, Nicholas. 1996. [*Analysis through Composition: Principles of the Classical Style*](http://www.worldcat.org/title/analysis-through-composition-principles-of-the-classical-style/oclc/476662714&referer=brief_results). Oxford: Oxford University Press.
+
+ Eckert, Stefan. 2005. ["'So, You Want to Write a Minuet?'---Historical Perspectives in Teaching Theory."](http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert.html) *Music Theory Online* 11 (2). http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert.html.
+
+ Feichas, Heloisa. 2010. ["Bridging the Gap: Informal Learning Practices as a Pedagogy of Integration."](http://www.journals.cambridge.org/abstract_S0265051709990192) *British Journal of Music Education* 27 (1): 47-58.
+
+ Green, Lucy. 2002. [*How Popular Musicians Learn: A Way Ahead for Music Education*.](http://www.worldcat.org/title/how-popular-musicians-learn-a-way-ahead-for-music-education/oclc/897000586?referer=di&ht=edition.) Burlington, VT: Ashgate.
+
+ Jemian, Rebecca. 2017. ["Ho Hey, Having Some Say in Contextual Listening."](http://flipcamp.org/engagingstudents5/essays/jemian.html) *Engaging Sudents: Essays in Music Pedagogy* 5.
+
+ Kolb, David A. 2015. [*Experiential Learning: Experience as the Source of Learning and Development*.](http://www.worldcat.org/title/experiential-learning-experience-as-the-source-of-learning-and-development/oclc/919574775&referer=brief_results.) 2nd ed. New Jersey: Pearson Education, Inc.
+
+ McPhail, Graham. 2013. "[Informal and Formal Knowledge: The Curriculum Conception of Two Rock Graduates.](http://www.journals.cambridge.org/abstract_S0265051712000228)" *British Journal of Music Education* 30 (1): 43--57.
+
+ Moore, Allan F. 2012. [*Song Means: Analysing and Interpreting Recorded Popular Song*](http://www.worldcat.org/title/song-means/oclc/1020668962&referer=brief_results.). Farnham, Surrey; Burlington, VT: Ashgate.
+
+ Parker, Sylvia. 2006. ["Understanding Sonata Form through Model Composition."](https://music.appstate.edu/about/jmtp/understanding-sonata-form-through-model-composition) *Journal of Music Theory Pedagogy* 20. https://music.appstate.edu/about/jmtp/understanding-sonata-form-through-model-composition.
+
+ Rabinovitch, Gilad, and Johnandrew Slominski. 2015. ["Towards a Galant Pedagogy: Partimenti and Schemata as Tools in the Pedagogy of Eighteenth-Century Style Improvisation."](http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.rabinovitch.html) *Music Theory Online* 21 (3). http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.rabinovitch.html.
+
+ Rogers, Carl R. 1951. [*Client-Centered Therapy: Its Current Practice, Implications, and Theory*](https://openlibrary.org/works/OL2354089W/Client-centered_therapy_its_current_practice_implications_and_theory.). London: Constable.
 
 This work is copyright ⓒ2018 Bruno Alcalde and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
