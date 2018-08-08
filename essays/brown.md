@@ -56,6 +56,8 @@ An alternative to having students fill out a paper handout is to implement Asses
 
 The assessments described in this essay can help theory teachers test their students' ability to aurally identify formal sections within a sonata movement without worry that students are referencing a score to inform their responses. These tests culminate in real-time analysis of sonata-form movements, teaching musicians skills that can be applied to other aspects of their everyday lives, such as attending concerts and sight reading new works. Although these assessments on the surface are largely concerned with my students' ability to aurally identify where a particular formal section begins, the ultimate goal is to teach students to attune to cadences to govern their analytical decisions. Listening for the two staccato chords on "sol" marking the medial caesura or the trill on V at the ESC helps students not only to hear formal elements, but also to aurally ascertain stylistic elements of the Classical period. Moreover, students learn to hear the unfolding of a sonata as an "expressive/dramatic" event, organized by cadences (Hepokoski and Darcy 2006, p. 13; Monahan 2011, p. 69).
 
+*I am grateful to Stephen Gosden and Jeff Lovell for their helpful feedback on this article.*
+
 **References**
 
 Alegant, Brian. 2008. "[Listen Up!: Thoughts on iPods, Sonata Form, and Analysis without Score](https://music.appstate.edu/about/jmtp/listen-thoughts-ipods-sonata-form-and-analysis-without-score)." *Journal of Music Theory Pedagogy* 22: 149--76.

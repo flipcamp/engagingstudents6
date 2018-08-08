@@ -25,7 +25,7 @@ Damian Blättler, Rice University
 Jenine Brown, The Peabody Conservatory, Johns Hopkins University
 
 [Part Writing Can Be Student Centered]({{ site.baseurl }}/essays/chenette.html)  
-Tim Chenette, Utah State University 
+Timothy Chenette, Utah State University 
 
 [Some Reharmonization Techniques for Popular Music: Melodic Skeletons, the Melodic-Harmonic Divorce, and Meta-Schemas]({{ site.baseurl }}/essays/declercq.html)  
 Trevor de Clercq, Middle Tennessee State University
