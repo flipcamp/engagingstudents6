@@ -11,7 +11,7 @@ title: Contributors
 
 ## Damian Blättler
 
-Damian Blättler is Assistant Professor of Music Theory at Rice University, where he teaches courses in analysis and the music of Ravel. His research interest in the expanded tonal practices of the 20th and 21st centuries includes projects on the music of Ravel and Andriessen and publications on additive harmony in Music Theory Online and Theoria.
+Damian Blättler is Assistant Professor of Music Theory at Rice University, where he teaches courses in analysis and the music of Ravel. His research interest in the expanded tonal practices of the 20th and 21st centuries includes projects on the music of Ravel and Andriessen and publications on additive harmony in *Music Theory Online* and *Theoria*.
 
 ## Jenine Brown
 
