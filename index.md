@@ -15,7 +15,7 @@ Editors
 
 # Essays
 
-[A Student-Centered Approach to Composing Popular Music in the Theory Classroom]({{ site.baseurl }}/essays/alcade.html)  
+[A Student-Centered Approach to Composing Popular Music in the Theory Classroom]({{ site.baseurl }}/essays/alcalde.html)  
 Bruno Alcade, University of Richmond
 
 [The Analysis Paper as Academic Argument]({{ site.baseurl }}/essays/blattler.html)  
