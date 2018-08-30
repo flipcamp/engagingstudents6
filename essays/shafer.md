@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Calling Captain Scaffold! Interactive Handouts to Stimulate Student Learning"
+title: ""Calling Captain Scaffold!" Interactive Handouts to Stimulate Student Learning"
 author: Jennifer Shafer
 ---
 {{ page.title }}
@@ -92,7 +92,7 @@ Although frequent use of structured handouts can risk becoming too prescriptive,
 
 Duker, Philip, Anna Gawboy, Bryn Hughes, and Kris P. Shaffer. 2015. "[Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class.](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html)" *Music Theory Online* 21 (2).
 
-The Iris Center. 2018. "[Page 1: What is Instructional Scaffolding?](https://iris.peabody.vanderbilt.edu/module/sca/cresource/q1/p01/#content)" Accessed July 11, 2018. https://iris.peabody.vanderbilt.edu/module/sca/cresource/q1/p01/\#content
+The Iris Center. 2018. "[Page 1: What is Instructional Scaffolding?](https://iris.peabody.vanderbilt.edu/module/sca/cresource/q1/p01/#content)" Accessed July 11, 2018. [https://iris.peabody.vanderbilt.edu/module/sca/cresource/q1/p01/\#content
 
 Jørgensen, Harald. 2000. \"[Student Learning in Higher Instrumental Education: Who is Responsible?](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3E778DBCD0FF9C29A973FE7DADF0FBB6/S026505170000016Xa.pdf/div-class-title-student-learning-in-higher-instrumental-education-who-is-responsible-div.pdf)\" *British Journal of Music Education* 17 (1): 67-77.
 
