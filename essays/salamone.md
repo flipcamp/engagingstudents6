@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making a Case for Freewriting in the Music Theory Classroom"
-author: Jenn Salamone
+author: Jennifer Salamone
 ---
 {{ page.title }}
 ================

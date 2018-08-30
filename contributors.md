@@ -41,7 +41,7 @@ Jennifer Salamone is a Visiting Assistant Professor of Music Theory at the Oberl
 
 ## Jennifer Shafer
 
-Jennifer Shafer is an assistant professor of music theory at the University of Delaware, where she teaches courses in undergraduate and graduate music theory. Previously, Jennifer was an adjunct faculty member at Temple University and a teaching associate and lecturer at Ohio State University, where she was named the finalist for the Outstanding Graduate Associate Teaching Award by the College of Arts and Sciences Student Council. Her two main research interests are mathematics and music (with the purpose of applying mathematical and computational tools as analytical aids) and music theory pedagogy.
+Jennifer Shafer is an Assistant Professor of Music Theory at the University of Delaware, where she teaches courses in undergraduate and graduate music theory. Previously, Jennifer was an adjunct faculty member at Temple University and a teaching associate and lecturer at Ohio State University, where she was named the finalist for the Outstanding Graduate Associate Teaching Award by the College of Arts and Sciences Student Council. Her two main research interests are mathematics and music (with the purpose of applying mathematical and computational tools as analytical aids) and music theory pedagogy.
 
 ## Cara Stroud
 
