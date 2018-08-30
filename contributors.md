@@ -17,7 +17,7 @@ Damian Blättler is Assistant Professor of Music Theory at Rice University, wher
 
 ## Jenine Brown
 
-Jenine Brown teaches aural skills at the Peabody Conservatory of the Johns Hopkins University, where she joined the faculty in 2015. Her research interests include the perception of post-tonal music and music theory pedagogy. Brown has published in *Music Perception* (2016) and *Music Theory Spectrum* (forthcoming), and she holds a Ph.D. in music theory from the Eastman School of Music (2014).
+Jenine Brown teaches aural skills at the Peabody Conservatory of the Johns Hopkins University, where she joined the faculty in 2015. Her research interests include music theory pedagogy and the perception of post-tonal music. She holds a Ph.D. in music theory from the Eastman School of Music (2014), and her research appears in Music Perception (2016) and Music Theory Spectrum (forthcoming).
 
 ## Timothy Chenette
 
