@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Calling Captain Scaffold!" Interactive Handouts to Stimulate Student Learning"
+title: '"Calling Captain Scaffold!" Interactive Handouts to Stimulate Student Learning"'
 author: Jennifer Shafer
 ---
 {{ page.title }}
@@ -92,7 +92,7 @@ Although frequent use of structured handouts can risk becoming too prescriptive,
 
 Duker, Philip, Anna Gawboy, Bryn Hughes, and Kris P. Shaffer. 2015. "[Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class.](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html)" *Music Theory Online* 21 (2).
 
-The Iris Center. 2018. "[Page 1: What is Instructional Scaffolding?](https://iris.peabody.vanderbilt.edu/module/sca/cresource/q1/p01/#content)" Accessed July 11, 2018. [https://iris.peabody.vanderbilt.edu/module/sca/cresource/q1/p01/\#content
+The Iris Center. 2018. "[Page 1: What is Instructional Scaffolding?](https://iris.peabody.vanderbilt.edu/module/sca/cresource/q1/p01/#content)" Accessed July 11, 2018. [https://iris.peabody.vanderbilt.edu/module/sca/cresource/q1/p01/\#content](https://iris.peabody.vanderbilt.edu/module/sca/cresource/q1/p01/\#content)
 
 Jørgensen, Harald. 2000. \"[Student Learning in Higher Instrumental Education: Who is Responsible?](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3E778DBCD0FF9C29A973FE7DADF0FBB6/S026505170000016Xa.pdf/div-class-title-student-learning-in-higher-instrumental-education-who-is-responsible-div.pdf)\" *British Journal of Music Education* 17 (1): 67-77.
 
@@ -100,7 +100,7 @@ Keast, Dan A. 2009. \"[A Constructivist Application for Online Learning in Music
 
 Küpers, Elisa, Marijn van Dijk, and Paul Van Geert. 2014. "['Look Closely at What I'm Doing!' Scaffolding in Individual String Lessons: Two Case Studies.](http://journals.sagepub.com/doi/pdf/10.1177/0255761413516064)" *International Journal of Music Education* 32 (3): 375-391.
 
-&mdash&mdash&mdash. 2017. "[Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach.](https://www.tandfonline.com/doi/full/10.1080/10508406.2016.1259624)" *Journal of the Learning Sciences* 26 (1): 131-166.
+-------------. 2017. "[Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach.](https://www.tandfonline.com/doi/full/10.1080/10508406.2016.1259624)" *Journal of the Learning Sciences* 26 (1): 131-166.
 
 Lin, Tzu-chiang, Ying-shao Hsu, Shu-sheng Lin, Maio-Li Changlai, Kun-Yuan Yang, and Ting-ling Lai. 2011. "[A Review of Empirical Evidence on Scaffolding for Science Education.](https://www.researchgate.net/publication/257570597_A_review_of_empirical_evidence_on_scaffolding_for_science_education?enrichId=rgreq-4d3582c54a43a8fc50457767d9f4fa0f-XXX&enrichSource=Y292ZXJQYWdlOzI1NzU3MDU5NztBUzoxNzIzNjIwMDM2NTY3MDRAMTQxODEwNTcxMjc0NQ%3D%3D&el=1_x_3&_esc=publicationCoverPdf)" *International Journal of Science and Mathematics Education* 10 (2): 437-455.
 
