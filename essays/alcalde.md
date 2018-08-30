@@ -65,7 +65,7 @@ There is certainly a lot of room for improvement and tweaking in this strategy, 
 
  Moore, Allan F. 2012. [*Song Means: Analysing and Interpreting Recorded Popular Song*](http://www.worldcat.org/title/song-means/oclc/1020668962&referer=brief_results.). Farnham, Surrey; Burlington, VT: Ashgate.
 
- Parker, Sylvia. 2006. ["Understanding Sonata Form through Model Composition."](https://music.appstate.edu/about/jmtp/understanding-sonata-form-through-model-composition) *Journal of Music Theory Pedagogy* 20. https://music.appstate.edu/about/jmtp/understanding-sonata-form-through-model-composition.
+ Parker, Sylvia. 2006. ["Understanding Sonata Form through Model Composition."](https://drive.google.com/file/d/0B0ZI8di-pEDvR1MtM3A2TUcyV00/view) *Journal of Music Theory Pedagogy* 20. https://music.appstate.edu/about/jmtp/
 
  Rabinovitch, Gilad, and Johnandrew Slominski. 2015. ["Towards a Galant Pedagogy: Partimenti and Schemata as Tools in the Pedagogy of Eighteenth-Century Style Improvisation."](http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.rabinovitch.html) *Music Theory Online* 21 (3). http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.rabinovitch.html.
 
