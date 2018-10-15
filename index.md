@@ -42,9 +42,6 @@ Jennifer Shafer, University of Delaware
 [Transcending the Pedagogical Patriarchy: Practical Suggestions for Including Examples from Women Composers in the Music Theory Curriculum]({{ site.baseurl }}/essays/stroud1.html)  
 Cara Stroud, Michigan State University
 
-[List of Classroom Resources on Music by Women Composers]({{ site.baseurl }}/essays/stroud2.html)  
-Cara Stroud, Michigan State University
-
 [Using Gallery Walks for Engagement in the Music History Classroom]({{ site.baseurl }}/essays/wissner.html)  
 Reba Wissner, Montclair State University 
 
@@ -60,7 +57,6 @@ Anna Gawboy, Ohio State University, co-editor
 Bryn Hughes, University of Lethbridge, co-editor  
 Meghan Naxer, Kent State University, co-editor  
 Daniel Shanahan, Ohio State University, production editor
-David Baker, Louisiana State University, production editor
 
 Danny Arthurs, University of Tulsa<br>
 Sarah Bakker, Utah State University<br>
