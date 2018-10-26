@@ -66,7 +66,7 @@ Chenette, Timothy. 2016. "[Bringing Jazz Repertoire, Improvisation, and Active T
 
 de Clercq, Trevor. 2013 ["Towards a Flipped Aural Skills Classroom: Harnessing Recording Technology for Performance-Based Homework."](http://flipcamp.org/engagingstudents/deClercq.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
-Gjerdingen, Robert O. 2003. ["Review of *What to Listen for in Rock: A Stylistic Analysis*]  [by Ken Stephenson."](http://faculty-web.at.northwestern.edu/music/gjerdingen/Papers/PubReviews/index.htm) *Music Perception* 20/4: 491-97.
+Gjerdingen, Robert O. 2003. ["Review of *What to Listen for in Rock: A Stylistic Analysis* by Ken Stephenson."](http://faculty-web.at.northwestern.edu/music/gjerdingen/Papers/PubReviews/index.htm) *Music Perception* 20/4: 491-97.
 
 Gjerdingen, Robert, and Janet Bourne. 2015. ["Schema Theory as a Construction Grammar."](http://www.mtosmt.org/issues/mto.15.21.2/mto.15.21.2.gjerdingen_bourne.html) *Music Theory Online* 21.2.
 
@@ -84,7 +84,7 @@ Norgaard, Martin, Samantha N. Emerson, Kimberly Dawn, and James D. Fidlon. 2016.
 
 Rabinovitch, Gilad, and Johnandrew Slominski. 2015. ["Towards a Galant Pedagogy: Partimenti and Galant Schemata as Tools in the Pedagogy of Eighteenth-Century Style Improvisation."](http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.rabinovitch.html) *Music Theory Online* 21.3.
 
-Rabinovitch, Gilad. 2017. ["Review of Massimiliano Guido (ed.), *Studies in Historical Improvisation from* Cantare super Librum *to*]  [Partimenti (Ashgate, 2017)."](http://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.rabinovitch.html) *Music Theory Online* 23.4
+Rabinovitch, Gilad. 2017. ["Review of Massimiliano Guido (ed.), *Studies in Historical Improvisation from* Cantare super Librum *to* Partimenti (Ashgate, 2017)."](http://mtosmt.org/issues/mto.17.23.4/mto.17.23.4.rabinovitch.html) *Music Theory Online* 23.4
 
 Rogers, Nancy. 2013. ["Modernizing the Minuet Composition Project."](https://jmtp.appstate.edu/modernizing-minuet-composition-project) *Journal of Music Theory Pedagogy* 27: 71-110.
 
@@ -92,6 +92,6 @@ Schebenseke, Amanda. 2015. "[Student-Centered Learning Strategies for Teaching W
 
 Schubert, Peter. 2011. ["Global Perspective on Music Theory Pedagogy: Thinking in Music."](https://jmtp.appstate.edu/global-perspective-music-theory-pedagogy-thinking-music) *Journal of Music Theory Pedagogy* 25: 217-33.
 
-Schubert, Peter. 2017. "Teaching Theory through Improvisation." In [*Studies in Historical Improvisation from* Cantare super Librum *to*]  [Partimenti](https://www.routledge.com/Studies-in-Historical-Improvisation-From-Cantare-super-Librum-to-Partimenti/Guido/p/book/9781472473271), edited by Massimiliano Guido, 175-184. Abingdon: Ashgate.
+Schubert, Peter. 2017. "Teaching Theory through Improvisation." In [*Studies in Historical Improvisation from* Cantare super Librum *to*  Partimenti](https://www.routledge.com/Studies-in-Historical-Improvisation-From-Cantare-super-Librum-to-Partimenti/Guido/p/book/9781472473271), edited by Massimiliano Guido, 175-184. Abingdon: Ashgate.
 
 This work is copyright ⓒ2018 Gilad Rabinovitch and Martin Norgaard and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
