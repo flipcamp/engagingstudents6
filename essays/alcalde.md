@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Student-Centered Approach to Composing Popular Music in the Theory Classroom"
-author: Bruno Alcade
+author: Bruno Alcalde
 ---
 
 {{ page.title }}

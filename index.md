@@ -16,7 +16,7 @@ Editors
 # Essays
 
 [A Student-Centered Approach to Composing Popular Music in the Theory Classroom]({{ site.baseurl }}/essays/alcalde.html)  
-Bruno Alcade, University of Richmond
+Bruno Alcalde, University of Richmond
 
 [The Analysis Paper as Academic Argument]({{ site.baseurl }}/essays/blattler.html)  
 Damian Blättler, Rice University
@@ -25,7 +25,7 @@ Damian Blättler, Rice University
 Jenine Brown, The Peabody Conservatory, Johns Hopkins University
 
 [Part Writing Can Be Student Centered]({{ site.baseurl }}/essays/chenette.html)  
-Timothy Chenette, Utah State University 
+Timothy Chenette, Utah State University
 
 [Some Reharmonization Techniques for Popular Music: Melodic Skeletons, the Melodic-Harmonic Divorce, and Meta-Schemas]({{ site.baseurl }}/essays/declercq.html)  
 Trevor de Clercq, Middle Tennessee State University
@@ -37,13 +37,13 @@ Gilad Rabinovitch and Martin Norgaard, Georgia State University
 Jennifer Salamone, Oberlin Conservatory
 
 [Calling Captain Scaffold! Interactive Handouts to Stimulate Student Learning]({{ site.baseurl }}/essays/shafer.html)  
-Jennifer Shafer, University of Delaware 
+Jennifer Shafer, University of Delaware
 
 [Transcending the Pedagogical Patriarchy: Practical Suggestions for Including Examples from Women Composers in the Music Theory Curriculum]({{ site.baseurl }}/essays/stroud1.html)  
 Cara Stroud, Michigan State University
 
 [Using Gallery Walks for Engagement in the Music History Classroom]({{ site.baseurl }}/essays/wissner.html)  
-Reba Wissner, Montclair State University 
+Reba Wissner, Montclair State University
 
 [Teaching with Timelines]({{ site.baseurl }}/essays/yorgason.html)  
 Brent Yorgason, Brigham Young University
@@ -61,8 +61,8 @@ Daniel Shanahan, Ohio State University, production editor
 Danny Arthurs, University of Tulsa<br>
 Sarah Bakker, Utah State University<br>
 Daniel Blim, Denison University<br>
-Carla Colletti, Webster University<br> 
-Dave Easley, Oklahoma City University<br> 
+Carla Colletti, Webster University<br>
+Dave Easley, Oklahoma City University<br>
 Gretchen Foley, University of Nebraska--Lincoln<br>
 Philip Gentry, University of Delaware<br>
 Stephen Gosden, University of North Florida<br>
@@ -79,8 +79,5 @@ Nancy Murphy, University of Houston<br>
 Cora Palfy, Elon University<br>
 Colin Roust, University of Kansas<br>
 Rene Rusch, University of Michigan<br>
-Abby Shupe, Colorado State University<br> 
+Abby Shupe, Colorado State University<br>
 Chris Stover, Arizona State University<br>
-
-
-
