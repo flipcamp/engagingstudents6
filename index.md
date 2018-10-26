@@ -3,7 +3,7 @@ layout: post
 title: "Engaging Students: Essays in Music Pedagogy, Volume 6"
 ---
 
-_Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This the sixth volume of *Engaging Students*. You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
+_Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This is the sixth volume of *Engaging Students*. You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
 
 We hope that you enjoy reading this volume as much as we have enjoyed putting it together.
 
