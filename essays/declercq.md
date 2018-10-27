@@ -41,7 +41,7 @@ In order to reharmonize a song, we might first feel the need to fully transcribe
     <th class="tg-us36">1</th>
   </tr>
   <tr>
-    <td class="tg-us36"><a href="https://www.dropbox.com/s/o31ihey4pxwqubh/hey_jude_original_opening.mp3?dl=0">Original Chords</a>:</td>
+    <td class="tg-us36"><a href="../files/declercq/hey_jude_original_opening.mp3">Original Chords</a>:</td>
     <td class="tg-us36">I</td>
     <td class="tg-us36">V</td>
     <td class="tg-us36">Vsus7</td>
@@ -52,7 +52,7 @@ In order to reharmonize a song, we might first feel the need to fully transcribe
     <td class="tg-us36">I</td>
   </tr>
   <tr>
-    <td class="tg-us36"><a href="https://www.dropbox.com/s/l9r4lok9srneovm/hey_jude_rehar.mp3?dl=0">Reharmonnization</a>:</td>
+    <td class="tg-us36"><a href="../files/declercq/hey_jude_rehar.mp3">Reharmonnization</a>:</td>
     <td class="tg-us36">I</td>
     <td class="tg-us36">&#x266d;VII</td>
     <td class="tg-us36">ii IV</td>
@@ -65,7 +65,7 @@ In order to reharmonize a song, we might first feel the need to fully transcribe
 </table>
 
 **Figure 1.** Melodic skeleton of the first eight bars from "Hey Jude" with original chords and reharmonization. (Audio examples are embedded as links within the Figure.)
- 
+
 Because the melodic skeleton has only one or two notes per bar, the reharmonization task becomes greatly simplified. When creating my reharmonization (Figure 1, bottom row), I noticed that the first four bars of the melody can be conceptualized as a double-neighbor figure around scale-degree 3, so I mirrored this pattern in the bass. In the last four bars, I introduced some minor chords for variety and reintroduced the Vsus7 chord from the original harmonization.
 
 In practice, reharmonization is inherently trial-and-error. As such, it can be a very interactive use of class time to have students suggest different options based on the melodic skeleton and then immediately try them out, discussing afterwards what did and did not work, and why. In general, the issue of whether a particular chord progression sounds "good" is more opinion than fact, and the reasons why are often debatable. I thus see my role more as a guide for ways of thinking about harmony rather than as a judge of what is right or wrong. For this reason, I usually grade these types of assignments as pass/fail, with a stated requirement that the student must use some particular technique or techniques (e.g., a secondary dominant, two instances of modal mixture).
@@ -82,56 +82,56 @@ In recent years, research on popular music has shown that melody and harmony oft
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-yw4l"><a href="https://www.dropbox.com/s/c2bll97z2xiyzu8/adele_original_verse.mp3?dl=0">Original</a>:</th>
+    <th class="tg-yw4l"><a href="../files/declercq//adele_original_verse.mp3">Original</a>:</th>
     <th class="tg-yw4l">I</th>
     <th class="tg-yw4l">iii64</th>
     <th class="tg-yw4l">vi</th>
     <th class="tg-yw4l">IV</th>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.dropbox.com/s/q1ts85pj1kll77n/adele_verse_15b72.mp3?dl=0">Version 1</a>:</td>
+    <td class="tg-yw4l"><a href="../files/declercq/adele_verse_15b72.mp3">Version 1</a>:</td>
     <td class="tg-yw4l">I</td>
     <td class="tg-yw4l">V</td>
     <td class="tg-yw4l">&#x266d;VII</td>
     <td class="tg-yw4l">ii</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.dropbox.com/s/j4ssr2kz65gwoyz/adele_verse_1b743.mp3?dl=0">Version 2</a>:</td>
+    <td class="tg-yw4l"><a href="../files/declercq/adele_verse_1b743.mp3">Version 2</a>:</td>
     <td class="tg-yw4l">I</td>
     <td class="tg-yw4l">&#x266d;VII</td>
     <td class="tg-yw4l">IV</td>
     <td class="tg-yw4l">iii</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.dropbox.com/s/d9vvu5f24ad51tj/adele_verse_162b7.mp3?dl=0">Version 3</a>:</td>
+    <td class="tg-yw4l"><a href="../files/declercq/adele_verse_162b7.mp3">Version 3</a>:</td>
     <td class="tg-yw4l">I</td>
     <td class="tg-yw4l">vi</td>
     <td class="tg-yw4l">ii</td>
     <td class="tg-yw4l">&#x266d;VII</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.dropbox.com/s/v0rm0l6pyasdahd/adele_verse_1234.mp3?dl=0">Version 4</a>:</td>
+    <td class="tg-yw4l"><a href="../files/declercq/adele_verse_1234.mp3">Version 4</a>:</td>
     <td class="tg-yw4l">I</td>
     <td class="tg-yw4l">ii</td>
     <td class="tg-yw4l">iii</td>
     <td class="tg-yw4l">IV</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.dropbox.com/s/5wleu0kbcc7cahn/adele_verse_4156.mp3?dl=0">Version 5</a>:</td>
+    <td class="tg-yw4l"><a href="../files/declercq/adele_verse_4156.mp3">Version 5</a>:</td>
     <td class="tg-yw4l">IV</td>
     <td class="tg-yw4l">I</td>
     <td class="tg-yw4l">V</td>
     <td class="tg-yw4l">vi</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.dropbox.com/s/k5m5yzsg4c3ip3z/adele_verse_6415.mp3?dl=0">Version 6</a>:</td>
+    <td class="tg-yw4l"><a href="../files/declercq/adele_verse_6415.mp3">Version 6</a>:</td>
     <td class="tg-yw4l">vi</td>
     <td class="tg-yw4l">IV</td>
     <td class="tg-yw4l">I</td>
     <td class="tg-yw4l">V</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.dropbox.com/s/3v8x6lu1krbmln0/adele_verse_5641.mp3?dl=0">Version 7</a>:</td>
+    <td class="tg-yw4l"><a href="../files/declercq/adele_verse_5641.mp3">Version 7</a>:</td>
     <td class="tg-yw4l">V</td>
     <td class="tg-yw4l">vi</td>
     <td class="tg-yw4l">IV</td>
@@ -170,7 +170,7 @@ Consider the application of meta-schemas in the song "Let It Be" by the Beatles 
     <th class="tg-yw4l">.</th>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.dropbox.com/s/hq4bjkqt1ue8p7b/let_it_be_original_opening.mp3?dl=0">Original Chords</a>:</td>
+    <td class="tg-yw4l"><a href="../files/declercq/let_it_be_original_opening.mp3">Original Chords</a>:</td>
     <td class="tg-yw4l">I</td>
     <td class="tg-yw4l">V</td>
     <td class="tg-yw4l">vi</td>
@@ -181,7 +181,7 @@ Consider the application of meta-schemas in the song "Let It Be" by the Beatles 
     <td class="tg-yw4l">I</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.dropbox.com/s/l0l9v693ggfzi6w/let_it_be_v1.mp3?dl=0">Version 1</a>:</td>
+    <td class="tg-yw4l"><a href="../files/declercq/let_it_be_v1.mp3">Version 1</a>:</td>
     <td class="tg-yw4l">I</td>
     <td class="tg-yw4l">&#x266d;VII</td>
     <td class="tg-yw4l">IV6</td>
@@ -192,7 +192,7 @@ Consider the application of meta-schemas in the song "Let It Be" by the Beatles 
     <td class="tg-yw4l">I</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.dropbox.com/s/ckr34athvj74p81/let_it_be_v2.mp3?dl=0">Version 2</a>:</td>
+    <td class="tg-yw4l"><a href="../files/declercq/let_it_be_v2.mp3">Version 2</a>:</td>
     <td class="tg-yw4l">I</td>
     <td class="tg-yw4l">iii7</td>
     <td class="tg-yw4l">IV</td>
@@ -294,7 +294,7 @@ While reharmonizations of short passages may be adequate for introductory assign
 </table>
 
 
-**Figure 4.** Melodic skeleton and original chords ([with audio here](https://www.dropbox.com/s/anr0ncq4jjyc7v6/photograph_original_vpc.mp3?dl=0)) for the first verse, prechorus, and chorus of "Photograph" (Ed Sheeran, 2014).
+**Figure 4.** Melodic skeleton and original chords ([with audio here](../files/declercq/photograph_original_vpc.mp3)) for the first verse, prechorus, and chorus of "Photograph" (Ed Sheeran, 2014).
 
 Figure 5 shows my reharmonization. Like many songs, the verse melody is mostly static and pentatonic. In the original verse, the bassline descends 1--6--5--4, but I exploit the melodic-harmonic divorce to write a bassline that is a step off, descending 1--7--6--5. I continue the diatonic bass descent into the prechorus, which now begins on IV instead of vi. From the melodic skeleton, I see in the third bar of the prechorus that I can move the bass down to b3 for a first inversion minor tonic chord, after which I use a chromatic bass ascent until the end of the prechorus. Exploiting the harmonic-melodic divorce again, I push the chromatic ascent through the last four bars of the prechorus, essentially ignoring scale-degree 5 in the melody, which we might think clashes with the V/V chord. In the chorus, I switch to a chromatic descent in the bass. Note that the \#IV half-dim7 chord at the end of the chorus arises primarily from voice-leading, supporting scale-degree 1 in the melody while sharing common tones with the chords before and after it.
 
@@ -398,7 +398,7 @@ Figure 5 shows my reharmonization. Like many songs, the verse melody is mostly s
   </tr>
 </table>
 
-**Figure 5.** Melodic skeleton and reharmonization ([with audio here](https://www.dropbox.com/s/h061v2ffc3niimq/photograph_rehar_vpc.mp3?dl=0)) for the first verse, prechorus, and chorus of "Photograph" (Ed Sheeran, 2014).
+**Figure 5.** Melodic skeleton and reharmonization ([with audio here](../files/declercq/photograph_rehar_vpc.mp3)) for the first verse, prechorus, and chorus of "Photograph" (Ed Sheeran, 2014).
 
 I do not expect all students to create reharmonizations at this skill level. Often, though, students will stumble onto fairly sophisticated harmonic techniques just by thinking about chord possibilities and using their ears. I remember one student, for example, coming up with the same reharmonization as shown in the chorus of Figure 5 and then fluently explaining (as I have them do) his reharmonization strategy even though (as he admitted) he was not entirely sure what Roman numerals were most appropriate. To be frank, I am not entirely sure what Roman numerals are most appropriate in this passage either. I am sure, though, that having students reharmonize melodies---in particular, recordings of isolated vocal melodies---is a great way to encourage students to use their ears to better understand harmony in popular music.
 
