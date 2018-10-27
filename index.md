@@ -36,7 +36,7 @@ Gilad Rabinovitch and Martin Norgaard, Georgia State University
 [Making a Case for Freewriting in the Music Theory Classroom]({{ site.baseurl }}/essays/salamone.html)  
 Jennifer Salamone, Oberlin Conservatory
 
-[Calling Captain Scaffold! Interactive Handouts to Stimulate Student Learning]({{ site.baseurl }}/essays/shafer.html)  
+["Calling Captain Scaffold!" Interactive Handouts to Stimulate Student Learning]({{ site.baseurl }}/essays/shafer.html)  
 Jennifer Shafer, University of Delaware
 
 [Transcending the Pedagogical Patriarchy: Practical Suggestions for Including Examples from Women Composers in the Music Theory Curriculum]({{ site.baseurl }}/essays/stroud1.html)  

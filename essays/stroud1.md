@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcending the Pedagogical Patriarchy: Practical Suggestions for Including Examples from Women Composers in the Music Theory Curriculum"
-author: Cara Stroud, Michigan State University 
+author: Cara Stroud, Michigan State University
 ---
 {{ page.title }}
 ================
@@ -16,7 +16,7 @@ In this essay, I discuss some of the issues I faced when trying to broaden a cou
 
 The problems faced in furthering the visibility of many under-represented groups can often be similar to those problems in incorporating music by women. To focus this investigation, I limit my discussion to the incorporation of music by women composers, but I believe these techniques will support instructors who want to find examples of music composed by members of many under-represented groups.
 
-Four recurring issues emerged in my efforts to broaden my own teaching repertoire: 1) canonical thinking, 2) accessibility, 3) tokenism, and 4) problems posed by the gender imbalance of particular topics and time periods. All of these problems are compounded by the critical lack of time that we all face, which will become apparent in the ensuing discussion. The suggestions below are intended to reduce the amount of time necessary for other instructors to embark on a similar curricular modification. I have also provided a list of resources for finding teaching examples for the written music theory classroom [elsewhere in this volume]({{ site.baseurl }}/essays/stroud2.html). 
+Four recurring issues emerged in my efforts to broaden my own teaching repertoire: 1) canonical thinking, 2) accessibility, 3) tokenism, and 4) problems posed by the gender imbalance of particular topics and time periods. All of these problems are compounded by the critical lack of time that we all face, which will become apparent in the ensuing discussion. The suggestions below are intended to reduce the amount of time necessary for other instructors to embark on a similar curricular modification. I have also provided a list of resources for finding teaching examples for the written music theory classroom [elsewhere in this volume]({{ site.baseurl }}/essays/stroud2.html).
 
 ### Issue \#1: Canonical Thinking
 
@@ -29,7 +29,7 @@ Investing the time to replace go-to examples might seem like a daunting task, bu
 
 Including examples of varying complexity can better prepare students for grappling with the music they encounter outside the safe confines of the classroom. Following the publication of the [CMS Manifesto](http://www.mtosmt.org/issues/mto.16.22.1/manifesto.pdf), many educators in music theory are already concerned about updating the breadth and relevance of their curriculum. Now is the time to move beyond canonical thinking and embrace examples that would not have easily fit in with the classic teaching templates of the past. Including at least two works by women composers in a single course is a starting point: truly counteracting the effects of ingrained cultural hierarchies takes time.
 
-### Issue \#2: Accessibility 
+### Issue \#2: Accessibility
 
 Accessibility problems are closely intertwined with the problems created by canonical thinking, both of which are undergirded by a lack of time. The sheer volume of all currently available examples (of which examples from women composers are a slowly growing subset) can be overwhelming, paradoxically leading us to retreat to the same limited group---excerpts from classic textbooks and anthologies, with few works from women composers.
 
@@ -38,9 +38,9 @@ I recommend the following resources to easily find music theory examples compose
 -   Visit [MusicTheoryExamplesByWomen.com](http://musictheoryexamplesbywomen.com/)  for a well-organized database of PDF scores.
 -   Utilize the attached list of anthologies and online resources to easily locate works composed by women.
 
-The attached list of anthologies and [online resources](http://flipcamp.org/engagingstudents6/essays/stroud2.html) is not intended to be comprehensive---I have intentionally limited it to resources that I found helpful in my own teaching preparation. The sources are also geared toward the undergraduate written music theory curriculum, but will likely prove useful in other contexts as well. [MusicTheoryExamplesByWomen.com](http://musictheoryexamplesbywomen.com/), supervised by Molly Murdock, conveniently categorizes examples by teaching topics, with good coverage of many conventional topics common to the freshman and sophomore core curriculum. I know of no other resource that is so convenient for the time-crunched instructor.
+The attached list of anthologies and [online resources]({{ site.baseurl }}/essays/stroud2.html) is not intended to be comprehensive---I have intentionally limited it to resources that I found helpful in my own teaching preparation. The sources are also geared toward the undergraduate written music theory curriculum, but will likely prove useful in other contexts as well. [MusicTheoryExamplesByWomen.com](http://musictheoryexamplesbywomen.com/), supervised by Molly Murdock, conveniently categorizes examples by teaching topics, with good coverage of many conventional topics common to the freshman and sophomore core curriculum. I know of no other resource that is so convenient for the time-crunched instructor.
 
-### Issue \#3: Tokenism 
+### Issue \#3: Tokenism
 
 Including only one example from a woman composer in an entire course can result in "tokenism." Students can take away a limited view of women composers as a group with only a single example.
 
@@ -63,11 +63,11 @@ Following are additional methods of increasing the visibility of women in music 
 
 Fundamentals topics such as scales and triads easily accommodate the music composed by a range of women from many time periods, as do topics such as sequences and modulation. By contrast, I had such a difficult time finding a pedagogically useful sonata example composed by a woman that I ended up not including *any* sonata examples composed by women. Similarly, the very specific advanced chromatic techniques (chromatic sequences, the omnibus progression, etc.) often found in the final semester(s) of the undergraduate core curriculum can also present obstacles to finding examples from women. Some topics are a significant part of the mainstream theory core and also pose increased challenges to finding diverse examples. What do we do when locating a typical late-18th-/early-19th-century sonata form composed by a woman seems to be an impossible task?
 
-Being aware of which topics in your curriculum are time-period specific (e.g., sonata form) and which topics are less situated in a single historical time-period (e.g., major mode) can make it easier to identify possible topics which can be taught with musical examples composed by women, and which topics will require additional means of increasing visibility. [Citron (1993)](https://openlibrary.org/books/OL15058594M/Gender_and_the_Musical_Canon) sheds light on the societal forces underlying unequal historical representation of women composers and explores the cultural developments that have increased availability of music composed by women in recent years. My [attached resources list](http://flipcamp.org/engagingstudents6/essays/stroud2.html) contains some helpful sources for exploring historical and contemporary music composed by women, so the time-period of the course or topic need not be excessively limiting.
+Being aware of which topics in your curriculum are time-period specific (e.g., sonata form) and which topics are less situated in a single historical time-period (e.g., major mode) can make it easier to identify possible topics which can be taught with musical examples composed by women, and which topics will require additional means of increasing visibility. [Citron (1993)](https://openlibrary.org/books/OL15058594M/Gender_and_the_Musical_Canon) sheds light on the societal forces underlying unequal historical representation of women composers and explores the cultural developments that have increased availability of music composed by women in recent years. My [resources list]({{ site.baseurl }}/essays/stroud2.html) contains some helpful sources for exploring historical and contemporary music composed by women, so the time-period of the course or topic need not be excessively limiting.
 
 When faced with a topic or a historical time period that poses particular challenges for representing music composed by women, there are other ways to represent diversity than through musical examples. These topics or time periods can be opportunities to showcase women conductors and performers. "Drop-the-needle" style quizzes or listening journals can also provide an opportunity for exposing students to work from women composers. Consider adding women composers to the list of required listening.
 
-As stated at the outset of this essay, my goal has not been to provide a model of an inclusive curriculum, but to discuss the common obstacles that many of us face when striving to include diverse examples in the theory classroom. One final practical suggestion: instructors are encouraged to share good teaching examples with colleagues across institutions. This could happen through a shared, widely available online document, and it could also happen by contributing additional examples to [MusicTheoryExamplesByWomen.com](http://musictheoryexamplesbywomen.com/). 
+As stated at the outset of this essay, my goal has not been to provide a model of an inclusive curriculum, but to discuss the common obstacles that many of us face when striving to include diverse examples in the theory classroom. One final practical suggestion: instructors are encouraged to share good teaching examples with colleagues across institutions. This could happen through a shared, widely available online document, and it could also happen by contributing additional examples to [MusicTheoryExamplesByWomen.com](http://musictheoryexamplesbywomen.com/).
 
 Recognizing the constraints that we all work within can help us to transcend these barriers. As many of us discuss problems and issues of the contemporary music theory curriculum, this essay is intended to provide practical solutions to problems faced by many instructors. By acknowledging the difficulty of initiating incremental changes, we can begin to make these small adjustments and start to see broader results.
 

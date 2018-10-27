@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "List of Classroom Resources on Music by Women Composers"
-author: Cara Stroud, Michigan State University 
+author: Cara Stroud, Michigan State University
 ---
 {{ page.title }}
 ================
@@ -61,7 +61,8 @@ Straus, Joseph. 1993. [*Music by Women for Study and Analysis*](http://www.world
 
 > Killam's *MTO* article contains an appendix outlining a supplemental assignment list for an undergraduate course in twentieth-century music.
 
-[https://smtcswbibliography.wikispaces.com/Bibliography+on+Women+%26+Gender+in+Music](https://smtcswbibliography.wikispaces.com/Bibliography+on+Women+%26+Gender+in+Music)
+https://smtcswbibliography.wikispaces.com/Bibliography+on+Women+%26+Gender+in+Music
+*(Editor's Note: This website is no longer hosting this content)*
 
 > A wide-ranging bibliography covering many topics relating to women and gender in music. I would encourage you to download this if you are able\--Wikispaces will not be hosting content for much longer (as of June 2018).
 

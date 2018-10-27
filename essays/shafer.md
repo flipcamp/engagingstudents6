@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Calling Captain Scaffold!" Interactive Handouts to Stimulate Student Learning"'
+title: '"Calling Captain Scaffold!" Interactive Handouts to Stimulate Student Learning'
 author: Jennifer Shafer
 ---
 {{ page.title }}
