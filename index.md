@@ -15,17 +15,27 @@ Editors
 
 # Essays
 
+## Philosophy
+
 [A Student-Centered Approach to Composing Popular Music in the Theory Classroom]({{ site.baseurl }}/essays/alcalde.html)  
 Bruno Alcalde, University of Richmond
 
 [The Analysis Paper as Academic Argument]({{ site.baseurl }}/essays/blattler.html)  
 Damian Blättler, Rice University
 
-[Testing the student's ability to hear elements of sonata form without a score]({{ site.baseurl }}/essays/brown.html)  
-Jenine Brown, The Peabody Conservatory, Johns Hopkins University
-
 [Part Writing Can Be Student Centered]({{ site.baseurl }}/essays/chenette.html)  
 Timothy Chenette, Utah State University
+
+["Calling Captain Scaffold!" Interactive Handouts to Stimulate Student Learning]({{ site.baseurl }}/essays/shafer.html)  
+Jennifer Shafer, University of Delaware
+
+[Transcending the Pedagogical Patriarchy: Practical Suggestions for Including Examples from Women Composers in the Music Theory Curriculum]({{ site.baseurl }}/essays/stroud1.html)  
+Cara Stroud, Michigan State University
+
+## Practice
+
+[Testing the student's ability to hear elements of sonata form without a score]({{ site.baseurl }}/essays/brown.html)  
+Jenine Brown, The Peabody Conservatory, Johns Hopkins University
 
 [Some Reharmonization Techniques for Popular Music: Melodic Skeletons, the Melodic-Harmonic Divorce, and Meta-Schemas]({{ site.baseurl }}/essays/declercq.html)  
 Trevor de Clercq, Middle Tennessee State University
@@ -36,18 +46,11 @@ Gilad Rabinovitch and Martin Norgaard, Georgia State University
 [Making a Case for Freewriting in the Music Theory Classroom]({{ site.baseurl }}/essays/salamone.html)  
 Jennifer Salamone, Oberlin Conservatory
 
-["Calling Captain Scaffold!" Interactive Handouts to Stimulate Student Learning]({{ site.baseurl }}/essays/shafer.html)  
-Jennifer Shafer, University of Delaware
-
-[Transcending the Pedagogical Patriarchy: Practical Suggestions for Including Examples from Women Composers in the Music Theory Curriculum]({{ site.baseurl }}/essays/stroud1.html)  
-Cara Stroud, Michigan State University
-
 [Using Gallery Walks for Engagement in the Music History Classroom]({{ site.baseurl }}/essays/wissner.html)  
 Reba Wissner, Montclair State University
 
 [Teaching with Timelines]({{ site.baseurl }}/essays/yorgason.html)  
 Brent Yorgason, Brigham Young University
-
 
 
 # Editorial & Review Board
