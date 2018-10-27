@@ -29,7 +29,7 @@ Trevor de Clercq is Assistant Professor in the Department of Recording Industry 
 
 ## Martin Norgaard
 
-Martin Norgaard is Associate Professor of Music Education at Georgia State University in Atlanta where he is collaborating with faculty in music theory, mathematics, computer science, psychology, and physics to investigate the cognitive processes underlying improvisation. His research appears in the *Journal of Research in Music Education*, *The International Journal of Music Education*, *Brain Connectivity*, and the interdisciplinary journal *Music Perception* among others
+Martin Norgaard is Associate Professor of Music Education at Georgia State University in Atlanta where he is collaborating with faculty in music theory, mathematics, computer science, psychology, and physics to investigate the cognitive processes underlying improvisation. His research appears in the *Journal of Research in Music Education*, *The International Journal of Music Education*, *Brain Connectivity*, and the interdisciplinary journal *Music Perception*, among others.
 
 ## Gilad Rabinovitch
 
