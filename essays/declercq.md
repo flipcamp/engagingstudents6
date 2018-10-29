@@ -65,6 +65,7 @@ In order to reharmonize a song, we might first feel the need to fully transcribe
   </tr>
 </table>
 
+
 **Figure 1.** Melodic skeleton of the first eight bars from "Hey Jude" with original chords and reharmonization. (Audio examples are embedded as links within the Figure.)
 
 Because the melodic skeleton has only one or two notes per bar, the reharmonization task becomes greatly simplified. When creating my reharmonization (Figure 1, bottom row), I noticed that the first four bars of the melody can be conceptualized as a double-neighbor figure around scale-degree 3, so I mirrored this pattern in the bass. In the last four bars, I introduced some minor chords for variety and reintroduced the Vsus7 chord from the original harmonization.
