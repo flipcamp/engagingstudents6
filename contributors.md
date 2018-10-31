@@ -33,7 +33,7 @@ Martin Norgaard is Associate Professor of Music Education at Georgia State Unive
 
 ## Gilad Rabinovitch
 
-Gilad Rabinovitch is assistant professor of music theory at Georgia State University. His research interests include galant schemata and historical improvisation. His publications have appeared in (or are forthcoming from) the *Journal of Music Theory*, *Music Theory Online*, and *Theoria*.
+Gilad Rabinovitch is assistant professor of music theory at Georgia State University. His research interests include galant schemata and historical improvisation. His publications have appeared in (or are forthcoming from) the *Journal of Music Theory*, *Music Theory Online*, *Music Theory and Analysis*, and *Theoria*.
 
 ## Jennifer Salamone
 

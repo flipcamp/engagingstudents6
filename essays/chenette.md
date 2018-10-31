@@ -59,8 +59,8 @@ Upper-voice doubling can present an awkward physical situation for the movers, b
 
 Understanding voice leading holistically and physically through this model also works well with seventh chords, making clear why the fifth of a chord must sometimes be left out. Awareness of chordal sevenths and leading tones can be enhanced through gestures (say, raising your hand when you're the seventh) and/or drawing an arrow in the correct direction of resolution on the leading tone's label.
 
-![*Example 4: Minimal Voice Leading*]({{ site.baseurl }}/images/chenette4.png)
-*Example 4: Minimal Voice Leading*
+![*Example 4: Seventh Chords*]({{ site.baseurl }}/images/chenette4.png)
+*Example 4: Seventh Chords*
 
 While students must be reminded to continue to picture this model when putting pen to paper, they have mentioned in course evaluations that this kind of thinking helped them to keep track of the vertical and horizontal aspects of voice leading simultaneously.
 
