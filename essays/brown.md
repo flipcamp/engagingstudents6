@@ -48,7 +48,7 @@ In this assessment, students are asked to bring headphones and their phone or la
 
 ### Assessment 4: In-class 25-minute test of the entire sonata-form movement (only two hearings allowed)
 
-Assessments 3 and 4 are similar, but [Assessment 4](../files/brown/brown4.pdf) more closely simulates real-life experiences by playing the sonata-form movement in its entirety only two times on the classroom's loud speakers. Students fill out a handout identical to that shown in Assessment 3. [Haydn's Keyboard Sonata No. 50 in D major, Hob. XVI, 37, first movement](https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_Hob.XVI:37_(Haydn,_Joseph)), could be played in this assessment.
+Assessments 3 and 4 are similar, but [Assessment 4](../files/brown/brown3.pdf) more closely simulates real-life experiences by playing the sonata-form movement in its entirety only two times on the classroom's loud speakers. Students fill out a handout identical to that shown in Assessment 3. [Haydn's Keyboard Sonata No. 50 in D major, Hob. XVI, 37, first movement](https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_Hob.XVI:37_(Haydn,_Joseph)), could be played in this assessment.
 
 ### Conclusion
 
