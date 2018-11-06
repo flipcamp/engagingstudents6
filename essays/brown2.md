@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing the student's ability to hear elements of sonata form without a score"
+title: "Testing the student's ability to hear elements of sonata form without a score---Supplementary Material"
 author: Jenine Brown, Peabody Conservatory of the Johns Hopkins University
 ---
 {{ page.title }}
