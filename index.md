@@ -69,7 +69,7 @@ Dave Easley, Oklahoma City University<br>
 Gretchen Foley, University of Nebraska---Lincoln<br>
 Philip Gentry, University of Delaware<br>
 Stephen Gosden, University of North Florida<br>
-Kyle Gullings, University of Texas--Tyler<br>
+Kyle Gullings, University of Texas---Tyler<br>
 Enoch Jacobus, Shorter University<br>
 J. Daniel Jenkins, University of South Carolina<br>
 Tom Johnson, Skidmore College<br>
