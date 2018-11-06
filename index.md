@@ -66,7 +66,7 @@ Sarah Bakker, Utah State University<br>
 Daniel Blim, Denison University<br>
 Carla Colletti, Webster University<br>
 Dave Easley, Oklahoma City University<br>
-Gretchen Foley, University of Nebraska--Lincoln<br>
+Gretchen Foley, University of Nebraska---Lincoln<br>
 Philip Gentry, University of Delaware<br>
 Stephen Gosden, University of North Florida<br>
 Kyle Gullings, University of Texas--Tyler<br>
@@ -77,7 +77,7 @@ Megan Lavengood, George Mason University<br>
 Jeff Lovell, Lebanon Valley College<br>
 Anabel Maler, University of Chicago<br>
 Greg McCandless, Appalachian State University<br>
-Garrett Michaelsen, University of Massachusetts-–Lowell<br>
+Garrett Michaelsen, University of Massachusetts---Lowell<br>
 Nancy Murphy, University of Houston<br>
 Cora Palfy, Elon University<br>
 Colin Roust, University of Kansas<br>
