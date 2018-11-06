@@ -72,7 +72,7 @@ Stephen Gosden, University of North Florida<br>
 Kyle Gullings, University of Texas--Tyler<br>
 Enoch Jacobus, Shorter University<br>
 J. Daniel Jenkins, University of South Carolina<br>
-Tom Johnson, CUNY Graduate Center<br>
+Tom Johnson, Skidmore College<br>
 Megan Lavengood, George Mason University<br>
 Jeff Lovell, Lebanon Valley College<br>
 Anabel Maler, University of Chicago<br>
